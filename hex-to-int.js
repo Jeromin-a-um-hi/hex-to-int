@@ -1,7 +1,7 @@
 export function hexToInt(rawValue) {
     let rawValueArray = rawValue.split("");
     let rawValueArrayMapped = rawValueArray
-    .map((i) => {
+    .map(function(i) {
         if(i === "a" || i === "A"){
             return 10;
         } else if(i === "b" || i === "B"){
