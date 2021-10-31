@@ -36,5 +36,3 @@ function hexToInt(rawValue) {
     return sum;
 }
 exports.hexToInt = hexToInt;
-
-console.log(hexToInt("FBBABB"));
