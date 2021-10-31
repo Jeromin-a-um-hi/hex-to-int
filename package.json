@@ -1,8 +1,8 @@
 {
   "name": "hex-to-int",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Hexadecimal to integer convertor.",
-  "main": "hex-to-int.js",
+  "main": "build/hex-to-int.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
