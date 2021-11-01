@@ -36,3 +36,4 @@ function hexToInt(rawValue) {
     return sum;
 }
 exports.hexToInt = hexToInt;
+//# sourceMappingURL=hex-to-int.js.map
